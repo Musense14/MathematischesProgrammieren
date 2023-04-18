@@ -1,5 +1,5 @@
-numpy>=1.14.5 --> Berechnungen
-matplotlib --> plots
-pandas --> File-Types
-geopandas --> Geo-Files
-fiona --> GIS-files
+numpy>=1.14.5
+matplotlib
+pandas
+geopandas
+fiona
